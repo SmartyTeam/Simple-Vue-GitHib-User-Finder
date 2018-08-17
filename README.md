@@ -4,6 +4,7 @@
 
 [**Demo**](https://github.com/SmartyTeam/Simple-Vue-GitHib-User-Finder)
 
+[**Sample**](https://www.smartspate.com/wp-content/uploads/2018/08/GitHub-User-Search-Web-App-Photo-4.gif)
 ## Project setup
 ```
 npm install
